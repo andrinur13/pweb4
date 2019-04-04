@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+.header {
+    background-color: rgb(59, 59, 197);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.nav > ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+ul > li {
+    margin: 5px;
+}
+
+.footer {
+    background-color: rgb(58, 58, 58);
+    text-align: center;
+    color: white;
+    padding: 1px;
+}
